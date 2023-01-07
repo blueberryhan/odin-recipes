@@ -1,0 +1,22 @@
+h1, h2 {
+  background-color: olive;
+  color: white;
+  font-family: "Lucida console", "Courier New", monospace;
+}
+
+.paragraph {
+  background-color: beige;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+.ingredients-list {
+  background-color: beige;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+.steps-list {
+  background-color: beige;
+  font-family: Helvetica, Arial, sans-serif;
+}

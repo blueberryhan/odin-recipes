@@ -1,0 +1,20 @@
+h1, h2 {
+  background-color: #b19cd9;
+  color: white;
+  font-family: "Lucida console", "Courier New", monospace;
+}
+
+.description {
+  background-color: #ecdec9;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.ingredients-list {
+  background-color: #ecdec9;
+  font-family: Helvetica, Arial, sans-serif;;
+}
+
+.steps-list {
+  background-color: #ecdec9;
+  font-family: Helvetica, Arial, sans-serif;
+}
